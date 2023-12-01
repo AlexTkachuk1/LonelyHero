@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32df6e47e1db87c44a5e7482586eacfd, type: 3}
+  m_Name: WeaponCrafting_Weapon
+  m_EditorClassIdentifier: 
+  _prefab: {fileID: 3877162709836138999, guid: c51716421d6620348af33851db3f329c, type: 3}
+  _stats:
+    Countdown: 4
+    Multiplier: 1
+    DamageStats:
+      Amount: 0
+      Type: 0
+    PositionRange: 0
+    CastQuantity: 1
+  _weaponEffects: []
+  _clipName: 
+  _trapScripableObject: {fileID: 11400000, guid: aa6be59c00fcf8d40ab630fd6ff5e2c5, type: 2}
+  _weaponLiftime: 10000
+  _onActivationClipName: Explosion

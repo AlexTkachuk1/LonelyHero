@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e14b5b625092fed4faaaf7e8e9ee6866, type: 3}
+  m_Name: Skeleton_Knight
+  m_EditorClassIdentifier: 
+  _baseStats:
+    Speed: 1
+    Health: 50
+    _maxHealth: 50
+  _attackRange: 2
+  _experience: 25
+  _damageStats:
+    Amount: 10
+    Type: 0
+  _resistances: []

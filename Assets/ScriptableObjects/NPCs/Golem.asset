@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61c1116cfe3bcfe46ab04cfbc7a02cc9, type: 3}
+  m_Name: Golem
+  m_EditorClassIdentifier: 
+  _baseStats:
+    Speed: 1.2
+    Health: 110
+    _maxHealth: 110
+  _attackRange: 2
+  _experience: 50
+  _damageStats:
+    Amount: 50
+    Type: 0
+  _resistances: []
+  _preparationDuration: 2
+  _preparationRange: 7
+  _minDashRange: 5
+  _dashRange: 10
+  _dashSpeed: 30
+  _targetLayer:
+    serializedVersion: 2
+    m_Bits: 8
+  _dashDuration: 0.4

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c14a979eb9cbcee4596e017ea130f8ba, type: 3}
+  m_Name: Lightning_Weapon
+  m_EditorClassIdentifier: 
+  _prefab: {fileID: 6963027331093380863, guid: cc86fb2bc512a9d4faf46a1c3079f4c3, type: 3}
+  _stats:
+    Countdown: 2
+    Multiplier: 2
+    DamageStats:
+      Amount: 5
+      Type: 4
+    PositionRange: 5
+    CastQuantity: 4
+  _weaponEffects:
+  - {fileID: 11400000, guid: 0b0a16b2fa6da134abe925d397da7f3b, type: 2}
+  _clipName: Lightning

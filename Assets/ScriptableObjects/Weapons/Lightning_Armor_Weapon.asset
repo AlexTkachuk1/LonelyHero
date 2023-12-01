@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a6c7c2c90f37bf45a0521261591cb49, type: 3}
+  m_Name: Lightning_Armor_Weapon
+  m_EditorClassIdentifier: 
+  _prefab: {fileID: 2019853743230910502, guid: 734f6d19e3793404da9fc0baa054dd88, type: 3}
+  _stats:
+    Countdown: 3
+    Multiplier: 1
+    DamageStats:
+      Amount: 5
+      Type: 4
+    PositionRange: 0
+    CastQuantity: 1
+  _weaponEffects: []
+  _clipName: LightningArmor
+  _duration: 5
+  _armorStats:
+    Speed: 0
+    Health: 200
+    _maxHealth: 200

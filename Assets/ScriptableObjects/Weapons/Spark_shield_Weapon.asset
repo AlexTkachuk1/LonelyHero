@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6dda953ad739e29428cfa77c67028f02, type: 3}
+  m_Name: Spark_shield_Weapon
+  m_EditorClassIdentifier: 
+  _prefab: {fileID: 2010178542661947520, guid: 309cad350c35d9a418db6600d30ea600, type: 3}
+  _stats:
+    Countdown: 10
+    Multiplier: 1
+    DamageStats:
+      Amount: 80
+      Type: 0
+    PositionRange: 0
+    CastQuantity: 1
+  _clipName: SparkShield
+  _satelliteClipName: Spark
+  _numberOfActiveSatellites: 2
+  _speed: 1.2

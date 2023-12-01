@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Enemyes
+  - BaseWeapon
+  - Obstackles
+  - ExplosiveNPC
+  - ReflectedWeapon
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: EnemiesBehindThePlayer
+    uniqueID: 2325291425
+    locked: 0
+  - name: Weapons
+    uniqueID: 767799253
+    locked: 0
+  - name: Player
+    uniqueID: 619482015
+    locked: 0
+  - name: EnemiesInFrontOfThePlayer
+    uniqueID: 2063057771
+    locked: 0
+  - name: Obstackles
+    uniqueID: 3274206775
+    locked: 0
+  - name: UI
+    uniqueID: 3257168501
+    locked: 0

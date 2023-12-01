@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2824ee8f165abc41a7507476d48859b, type: 3}
+  m_Name: Bowman
+  m_EditorClassIdentifier: 
+  _baseStats:
+    Speed: 2
+    Health: 50
+    _maxHealth: 50
+  _attackRange: 9
+  _experience: 50
+  _damageStats:
+    Amount: 40
+    Type: 0
+  _resistances: []
+  _resetAttackCooldown: 2
+  _arrowSpeed: 3
